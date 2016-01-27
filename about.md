@@ -4,6 +4,8 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+Hi there.
+
+[@princeton](https://twitter.com/Princeton) alum, [@microsoft](https://twitter.com/Microsoft) product manager
 
 {% include footer.html %}
