@@ -1,3 +1,6 @@
+# Git Repository for My Personal Site
+Hi there. This is a Git repository of my personal site at [thomastruongchau.com](http://thomastruongchau.com).
+
 # Cactus Theme for Jekyll
 
 This is a port of [Cactus](https://github.com/koenbok/Cactus)'s default theme for Jekyll.
