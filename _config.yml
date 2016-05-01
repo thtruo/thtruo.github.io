@@ -1,6 +1,6 @@
 name: Thomas Truongchau
 description: Personal Site
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+meta_description: "tommy's thoughts, stories, and ideas"
 
 aboutPage: true
 
@@ -42,5 +42,5 @@ defaults:
             layout: post
 
 # Other Jekyll Plugins
-gems:
-  - jemoji
+# gems:
+#   - jemoji

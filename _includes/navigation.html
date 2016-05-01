@@ -1,4 +1,5 @@
 <nav class="main-nav">
+  <div class="container">
     {% if page.url != "/index.html" %}
         <a href="{{ site.baseurl }}"> <span class="arrow">←</span> Home </a>
     {% endif %}
@@ -9,4 +10,5 @@
         {% endif %}
     {% endif %}
     <a class="cta" href="{{ site.baseurl }}feed.xml">Subscribe</a>
+  </div>
 </nav>
