@@ -15,15 +15,17 @@
 
   {% include navigation.html %}
 
-  {% if page.profile %}
+  <!-- {% if page.profile %}
       {% include profile.html %}
-  {% endif %}
+  {% endif %} -->
 
   <section id="wrapper" class="{% if page.profile %}home{% endif %}">
     {{ content }}
   </section>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.3/headroom.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/headroom/0.9.3/jQuery.headroom.min.js"></script>
   <script src="{{ site.baseurl }}assets/js/main.js"></script>
   <script src="{{ site.baseurl }}assets/js/highlight.js"></script>
   <script>hljs.initHighlightingOnLoad();</script>
