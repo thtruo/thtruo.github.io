@@ -8,15 +8,17 @@
   <title>{{ site.name }}{% if page.title %} - {{ page.title }}{% endif %}</title>
   <link rel="shortcut icon" href="{{ site.baseurl }}assets/images/favicon.ico">
   <link rel="stylesheet" href="{{ site.baseurl }}assets/css/style.css">
-  <link rel="alternate" type="application/rss+xml" title="My Blog" href="{{ site.baseurl }}rss.xml">
+  <link rel="alternate" type="application/rss+xml" title="Tommy's Blog" href="{{ site.baseurl }}rss.xml">
   <link rel="stylesheet" href="{{ site.baseurl }}assets/css/highlight.css">
 </head>
 <body>
 
   {% include navigation.html %}
 
-  <!-- {% if page.profile %}
+ <!--  {% if page.profile %}
+    {% if site.aboutPage %}
       {% include profile.html %}
+    {% endif %}
   {% endif %} -->
 
   <section id="wrapper" class="{% if page.profile %}home{% endif %}">
