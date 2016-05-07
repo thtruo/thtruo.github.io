@@ -15,16 +15,3 @@ Filet mignon alcatra beef ribs capicola corned beef chuck. Beef pig short ribs s
 Pork belly shank pancetta pastrami landjaeger, alcatra bresaola. Hamburger kielbasa tenderloin strip steak pork loin fatback chuck ball tip kevin. Alcatra boudin short ribs, swine biltong leberkas kevin ground round chuck prosciutto pork chop. Pig porchetta kevin salami t-bone short loin frankfurter andouille short ribs rump beef ribs venison beef picanha.
 
 Does your lorem ipsum text long for something a little meatier? Give our generator a try… it’s tasty!
-
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tommy')
-#=> prints 'Hi, Tommy' to STDOUT.
-{% endhighlight %}
