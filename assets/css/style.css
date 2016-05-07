@@ -140,6 +140,7 @@ h2 {
 }
 
 .brand {
+  float: left;
   width: 400px;
   margin: 0 auto;
   text-transform: lowercase;
@@ -248,9 +249,9 @@ nav.main-nav h1 {
 }
 
 div.container-nav {
-  width: 100%;
-  padding-top: 10px;
-  padding-bottom: 5px;
+  float: right;
+  margin-top: 14px;
+  /*width: 100%;*/
 }
 
 div.nav-menu {
@@ -787,6 +788,13 @@ h2.month {
   .post h1 { font-size:24px; }
   .post h2 { font-size:20px; }
 }
+
+@media screen and (max-width: 840px) {
+  .brand, div.container-nav {
+    float: none;
+  }
+}
+
 .disclaimer {
   font-style: italic;
   font-size: 12px;
