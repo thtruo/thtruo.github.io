@@ -794,7 +794,12 @@ h2.month {
     float: none;
   }
 }
-
+@media screen and (max-width: 440px) {
+  nav.main-nav {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
 .disclaimer {
   font-style: italic;
   font-size: 12px;
