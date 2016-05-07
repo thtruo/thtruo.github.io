@@ -4,10 +4,6 @@
   </header>
   <div class="container-nav">
     <div class="nav-menu">
-      {% if page.url != "/index.html" %}
-          <a href="{{ site.baseurl }}"> <span class="arrow">←</span> Home </a>
-      {% endif %}
-
       {% if page.url != "/about/" %}
           {% if site.aboutPage %}
               <div class="nav-menu-item">
@@ -24,7 +20,7 @@
               </div>
           {% endif %}
       {% endif %}
-      <!-- <a class="cta" href="{{ site.baseurl }}feed.xml">Subscribe</a> -->
+      <a class="cta" href="{{ site.baseurl }}feed.xml">Subscribe</a>
     </nav>
   </div>
 </nav>
