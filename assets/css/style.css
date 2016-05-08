@@ -821,3 +821,12 @@ hr {
   margin-right: -40px;
   background: #8FA5A9;
 }
+
+.underconstruction h1, .underconstruction h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-style: normal;
+  color: #666;
+  display: block;
+  text-align: center;
+  padding-top: 100px;
+}

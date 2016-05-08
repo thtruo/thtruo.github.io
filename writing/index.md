@@ -5,11 +5,9 @@ title: "Writing"
 profile: true
 category: writing
 ---
-Writing.
 
-
-
+<!-- Remember to uncomment the navigation in default.html -->
 <!-- {% include post-list.html %} -->
 
 
-{% include footer.html %}
+<!-- {% include footer.html %} -->
