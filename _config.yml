@@ -19,7 +19,7 @@ url:            'http://thomastruongchau.com'
 author:         'Thomas Truongchau'
 authorTwitter:  'ttruongchau'
 
-permalink:       /:year/:title/
+permalink:       /:categories/:title/
 
 defaults:
     -
