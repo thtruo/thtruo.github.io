@@ -4,10 +4,10 @@ meta_description: "tommy's thoughts, stories, and ideas"
 
 aboutPage: true
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
 
-paginate: 20
+# paginate: 20
 baseurl: /
 domain_name: 'http://thomastruongchau.com'
 google_analytics: 'UA-XXXXXXXX-X'
@@ -42,5 +42,4 @@ defaults:
             layout: post
 
 # Other Jekyll Plugins
-# gems:
-#   - jemoji
+gems: [jemoji] # jekyll-paginate
