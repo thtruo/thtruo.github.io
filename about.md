@@ -2,45 +2,36 @@
 title: About
 layout: page
 ---
+<h1>About</h1>
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi, I'm Thomas.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>One of my life goals is to build and launch a tech company to help people become total badasses.</p>
+
+<p>I am currently a Product Manager at Microsoft. I help teams across Microsoft build better products through experimentation and analysis. In my previous life, I was an undergraduate at Princeton University, studying computer science with a focus on human-computer interaction.</p>
+
+<p>My intellectual interests include: the interplay between design and the human condition, investments and the power of compounding interest, controlled experimentation, human behavior, habit formation, and the science of motivation.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>HTML, CSS, Bootstrap, Semantic UI</li>
+	<li>Javascript, Node, Meteor, React</li>
 	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>D3</li>
+	<li>Java</li>
+	<li>Swift</li>
+	<li>Balsamiq</li>
+	<li>Sketch</li>
+	<li>AB Testing, Metrics and Analytics, MySQL - MongoDB</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/thtruo/30-Days-of-D3">30 Days of D3</a> in <a href="http://codepen.io/collection/AOENPY/">Codepen</a></li>
+	<li><a href="http://ptour.co">Ptour</a></li>
 </ul>
