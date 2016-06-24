@@ -1,6 +1,6 @@
 # main text of home
 name: Thomas Truongchau
-bio: Product Manager and aspiring entrepreneur
+bio: product manager, aspiring entrepreneur
 
 # twitter summary info
 description: a digital pensieve for a man figuring things out along the way
@@ -46,7 +46,7 @@ github: github.com/thtruo
 authors:
     thomastruongchau:
         name: Thomas Truongchau
-        bio: Product Manager and aspiring entrepreneur
+        bio: Product Manager
         external-image: false
         picture: assets/images/profile.jpg
         twitter: ttruongchau
