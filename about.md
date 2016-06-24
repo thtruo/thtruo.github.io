@@ -14,6 +14,8 @@ layout: page
 
 <p>My intellectual interests include: the interplay between design and the human condition, investments and the power of compounding interest, controlled experimentation, human behavior, habit formation, and the science of motivation.</p>
 
+<p>Always open to talk.</p>
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
