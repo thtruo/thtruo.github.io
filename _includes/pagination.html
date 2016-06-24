@@ -1,22 +1,15 @@
-<nav id="post-nav">
+<div class="pagination">
     {% if paginator.previous_page %}
-        <span class="prev">
-            {% if paginator.previous_page == 1 %}
-                <a href="{{ site.baseurl }}" title="Previous Page">
-                    <span class="arrow">←</span> Newer Posts
-                </a>
-            {% else %}
-                <a href="{{ site.baseurl }}page{{ paginator.previous_page }}/">
-                    <span class="arrow">←</span> Newer Posts
-                </a>
-            {% endif %}
-        </span>
+        <a href="{{ site.url }}{{ paginator.previous_page_path }}" class="previous">«</a>
+    {% else %}
+        <span class="previous hidden">«</span>
     {% endif %}
+
+    <span class="page_number ">page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
     {% if paginator.next_page %}
-        <span class="next">
-            <a href="{{ site.baseurl }}page{{ paginator.next_page }}/">
-                Older Posts <span class="arrow">→</span>
-            </a>
-        </span>
+        <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">»</a>
+    {% else %}
+        <span class="next hidden">»</span>
     {% endif %}
-</nav>
+</div>
