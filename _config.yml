@@ -3,14 +3,14 @@ name: Thomas Truongchau
 bio: product manager, aspiring entrepreneur
 
 # twitter summary info
-description: a digital pensieve for a man figuring things out along the way
+description: a digital pensieve collecting some of the lessons I've learned along the way
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/profile.jpg
 
-url: http://thtruo.github.io
+url: http://thomastruongchau.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
