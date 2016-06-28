@@ -8,7 +8,7 @@ tag:
 - product management
 - prioritization
 blog: true
-description: Why prioritization matters in product development and how it works
+description: Why prioritization matters in product management and product development and how it works.
 author: thomastruongchau
 ---
 
