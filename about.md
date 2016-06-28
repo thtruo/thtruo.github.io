@@ -14,7 +14,9 @@ layout: page
 
 <p>My intellectual interests include: the interplay between design and the human condition, investments and the power of compounding interest, controlled experimentation, human behavior, habit formation, and the science of motivation.</p>
 
-<p>Always open to talk.</p>
+<p>I'm also the biggest geek in the world! I love superheroes from DC and Marvel to everything in between. With the MCU and DCEU, it's a great time to be a fan. :)</p>
+
+<p>Always open to talk and meet new folks. Feel free to reach out!</p>
 
 <h2>Skills</h2>
 
@@ -32,6 +34,8 @@ layout: page
 </ul>
 
 <h2>Projects</h2>
+
+<p>Just a sampling for now.</p>
 
 <ul>
 	<li><a href="https://github.com/thtruo/30-Days-of-D3">30 Days of D3</a> in <a href="http://codepen.io/collection/AOENPY/">Codepen</a></li>
