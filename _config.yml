@@ -30,7 +30,7 @@ disqus: false # disqus: mydisqus
 disqus_shortname: 'whysly'
 
 # if you don't have any of social below, comment the line
-# facebook: https://www.facebook.com/thomastruongchau
+# facebook: thomastruongchau
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -38,10 +38,10 @@ disqus_shortname: 'whysly'
 # spotify: myspotify
 # vimeo: myvimeo
 # email: myemail@gmail.com
-linkedin: https://www.linkedin.com/in/thomastruongchau
-twitter: https://twitter.com/ttruongchau
-medium: https://medium.com/@ttruongchau
-github: github.com/thtruo
+linkedin: thomastruongchau
+twitter: ttruongchau
+medium: ttruongchau
+github: thtruo
 
 authors:
     thomastruongchau:
