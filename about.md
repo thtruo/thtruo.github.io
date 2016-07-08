@@ -10,7 +10,7 @@ layout: page
 
 <p>One of my life goals is to build and launch a tech company to help people become total badasses.</p>
 
-<p>I am currently a Product Manager at Microsoft's <a href="http://www.exp-platform.com/Pages/default.aspx">Experimentation Platform group</a>. I help other teams at Microsoft build better products through experimentation and analysis. Previously, I was an undergraduate at Princeton University studying computer science with a focus on human-computer interaction.</p>
+<p>I am currently a Product Manager at Microsoft's Experimentation Platform group. I help other teams at Microsoft build better products through experimentation and analysis. Previously, I was an undergraduate at Princeton University studying computer science with a focus on human-computer interaction.</p>
 
 <p>My intellectual interests include: the interplay between design and the human condition, investments and the power of compounding interest, controlled experimentation, human behavior, habit formation, and the science of motivation.</p>
 
