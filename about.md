@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-<h1>About</h1>
+# About
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
@@ -18,7 +18,7 @@ layout: page
 
 <p>Always open to talk and meet new interesting folks. Feel free to reach out!</p>
 
-<h2>Skills</h2>
+## Skills
 
 <ul class="skill-list">
 	<li>HTML, CSS, Bootstrap, Semantic UI</li>
@@ -30,11 +30,9 @@ layout: page
 	<li>Swift</li>
 </ul>
 
-<h2>Projects</h2>
+## Projects
 
-<p>Just a sampling for now.</p>
+Just a sampling for now.
 
-<ul>
-	<li><a href="https://github.com/thtruo/30-Days-of-D3">30 Days of D3</a> in <a href="http://codepen.io/collection/AOENPY/">Codepen</a></li>
-	<li><a href="http://ptour.co">Ptour</a></li>
-</ul>
+* [30 Days of D3]({% post_url 2016-06-30-30-days-of-d3 %}) in [Codepen](http://codepen.io/collection/AOENPY/) and [GitHub](https://github.com/thtruo/30-Days-of-D3)
+* [Ptour](http://ptour.co) as mentioned [here](http://www.princeton.edu/engineering/news/archive/?id=12954)
