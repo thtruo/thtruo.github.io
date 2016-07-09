@@ -1,0 +1,124 @@
+---
+title: "30 Days of D3"
+layout: post
+date: 2016-06-30 22:00:00
+image: '/assets/images/'
+headerImage: false
+tag: 
+- D3
+- side projects
+- learning
+blog: true
+description: Sharing my learnings from my "30 Days of D3" side project.
+author: thomastruongchau
+---
+
+I started learning [D3](https://d3js.org/) and kept going for 30 days. Each day, I tried tinkering and building something from what I learned. Below is my progression from day 1 to 30 in the form of 15 completed projects, where each one took a day or two to complete. This project is part of a personal challenge to help me achieve two goals: (1) learning and practicing more data visualization techniques and (2) build my willpower muscles based on how consistently I stayed the course for a month.
+
+## Why 30 Days?
+
+30 days is arbitrary. A month is not so long where boredom will cause me to give up the project. Yet it is not too short where the effort feels inconsequential.
+
+## Why D3?
+
+D3 has long been on my bucket list of things to learn. Since I have experience with Javascript, it was straightforward picking up D3. However, those who need a crash course to cover the basics before diving into D3, check out [Scott Murray's awesome guide](http://alignedleft.com/tutorials/d3/fundamentals). But D3 is only one of many tools for visualizing data. The better question is, *why data visualization*? 
+
+### Why Data Visualization?
+
+As a product manager in the Experimentation Platform team at Microsoft, I've experienced first-hand the importance of being data-driven. Using data to make optimal product decisions is critical! At the same time, my passion lies in the realm of human-computer interaction (HCI); I love obsessing over design details and enjoy spending hours talking about user interactions. Data visualization is a happy intersection between these two interests.
+
+Where HCI focuses on the interfaces between humans and technology, data visualization is about the analog interface between humans and data. Good data visualization relies on the same principles for good product design, namely: coherency, simplicity, ease of human interpretation, and minimal cognitive leakage.
+
+## Lessons Learned
+
+* Constructing visualizations ends up being more about the art than science of presenting content well. 
+* Visualization is only a means to tell a story. The (usually messy) dataset is the ground-truth. Slice/dice/pivot to gather insights. 
+* A 30-day sprint is a good time period to experiment with a new goal. 
+* I underestimated the difficulty in committing to making daily progress. My output was only 15 projects. It was demoralizing to have stretches of days where I did not commit code. 
+* It's OK to spend time exploring other ideas and to try out new things, but I could have done a better job balancing output and experimenting. 
+* I'll admit I'm sometimes shy about sharing my personal projects. Figuring out ways to overcome that weakness is a continual learning process. For this project, I experimented with tweeting my progress. It turns out that social pressure and accountability are great motivators!
+
+### Next Steps
+Though I developed a backlog of questions that would require explorations into data to discover insights, I found it more tempting to just create fun animations, such as an [animated clock](http://codepen.io/tommyt/pen/JKGdgv) and [another variation](http://codepen.io/tommyt/pen/ZOBmMG). Up next, I'd focus more on digging deeper into data exploration and analysis.
+
+## Inspiration
+Initial ideas for doing an **X day challenge** came from [Sam Lu's 100 Days of Swift](http://samvlu.com/index.html) and [Allen Wong's 30 Days of Swift](https://github.com/allenwong/30DaysofSwift).
+
+If you're interested in learning more about D3, there are lots of great resources. Here are the ones I found useful
+
+- [D3js](https://d3js.org/)
+- [Mike Bostock](https://bost.ocks.org/mike/)
+- [Scott Murray](http://alignedleft.com/tutorials/d3/)
+- [D3 Tutorials on Github](https://github.com/d3/d3/wiki/Tutorials)
+- [Udacity](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
+
+---
+
+## Projects
+
+Feel free to check out the visualizations at [Codepen](http://codepen.io/collection/AOENPY/) or [GitHub](https://github.com/thtruo).
+
+**[Project 15 - Fitbit Steps](http://codepen.io/tommyt/pen/jrydym)**
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%2015%20-%20Fitbit%20Steps.png" alt="Fitbit Steps Line Chart" width="400">
+
+**[Project 14 - Arclock](http://codepen.io/tommyt/pen/ZOBmMG)**
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%2014%20-%20Arclock.png" alt="Arclock" width="400">
+
+**[Project 13 - Force Layout Repulsion](http://codepen.io/tommyt/pen/ezdKdb)**
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%2013%20-%20Force%20Layout%20Repulsion.png" alt="Force Layout Repulsion" width="400">
+
+**[Project 12 - US Population Age Group Donut Chart](http://codepen.io/tommyt/pen**/vKXrNL)
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%2012%20-%20Donut%20Chart%20US%20Population.png" alt="US Population Age Group Donut Chart" width="400">
+
+**[Project 11 - US Population Age Group Pie Chart](http://codepen.io/tommyt/pen/**aZmGvq)
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%2011%20-%20Pie%20Chart%20US%20Population.png" alt="US Population Age Group Pie Chart" width="400">
+
+
+**[Project 10 - Flight Animation](https://github.com/thtruo/30-Days-of-D3/tree/**master/Project%2010%20-%20Flight%20Animation)
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%2010%20-%20Flight%20Animation.png" alt="Flight Animation" width="400">
+
+
+**[Project 9 - A Simple Kevin Bacon Graph](http://codepen.io/tommyt/pen/YWwEvm)**
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%209%20-%20Bacon.png" alt="A Simple Kevin Bacon Graph Screenshot" width="400">
+
+**[Project 8 - US Population Bubble Map](http://codepen.io/tommyt/pen/OXMygM)**
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%208%20-%20US%20Population%20Map.png" alt="US Population Bubble Map Screenshot" width="400">
+
+**[Project 7 - D3 Animated Clock](http://codepen.io/tommyt/pen/JKGdgv)**
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%207%20-%20Animated%20Clock.png" alt="Animated Clock Screenshot" width="400">
+
+**[Project 6 - A Map](http://codepen.io/tommyt/pen/pbJBJq)**
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%206%20-%20A%20Map.png" alt="A Map Screenshot" width="400">
+
+
+**[Project 5 - Scatterplot and Axes](http://codepen.io/tommyt/pen/jrPRPe)**
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%205%20-%20Scatterplots%20and%20Axes.png" alt="Scatterplot and Axes Screenshot" width="400">
+
+**[Project 4 - Simple Scatterplot](http://codepen.io/tommyt/pen/RRPxYy)**
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%204%20-%20Simple%20Scatterplot.png" alt="Simple Scatterplot Screenshot" width="400">
+
+**[Project 3 - SVG Bar Chart](http://codepen.io/tommyt/pen/jrPqKy)**
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%203%20-%20SVG%20Bar%20Chart.png" alt="SVG Bar Chart Screenshot" width="400">
+
+**[Project 2 - SVG Circles](http://codepen.io/tommyt/pen/WxbLRm)**
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%202%20-%20SVG%20Circles.png" alt="SVG Circles Screenshot" width="400">
+
+**[Project 1 - Bar Chart](http://codepen.io/tommyt/pen/QEwzWz)**
+
+<img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%201%20-%20Simple%20Bar%20Chart.png" alt="Simple Bar Chart Screenshot" width="400">
+
+---
