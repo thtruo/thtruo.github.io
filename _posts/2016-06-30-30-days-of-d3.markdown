@@ -13,7 +13,7 @@ description: Sharing my learnings from my "30 Days of D3" side project.
 author: thomastruongchau
 ---
 
-I started learning [D3](https://d3js.org/) and kept going for 30 days. Each day, I tried tinkering and building something from what I learned. Below is my progression from day 1 to 30 in the form of 15 completed projects, where each one took a day or two to complete. This project is part of a personal challenge to help me achieve two goals: (1) learning and practicing more data visualization techniques and (2) build my willpower muscles based on how consistently I stayed the course for a month.
+I started learning [D3](https://d3js.org/) and kept going for 30 days. Each day, I tried tinkering and building something from what I learned. Below is my progression from day 1 to 30 in the form of 15 completed projects, where each one took a day or two to complete. This project is part of a personal challenge to help me achieve two goals: (1) learning and practicing more data visualization techniques and (2) working out my willpower muscles based on how consistently I stayed the course for a month.
 
 ## Why 30 Days?
 
