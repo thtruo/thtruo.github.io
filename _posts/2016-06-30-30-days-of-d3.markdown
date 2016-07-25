@@ -70,16 +70,16 @@ Feel free to check out the visualizations at [Codepen](http://codepen.io/collect
 
 <img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%2013%20-%20Force%20Layout%20Repulsion.png" alt="Force Layout Repulsion" width="400">
 
-**[Project 12 - US Population Age Group Donut Chart](http://codepen.io/tommyt/pen**/vKXrNL)**
+**[Project 12 - US Population Age Group Donut Chart](http://codepen.io/tommyt/pen/vKXrNL)**
 
 <img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%2012%20-%20Donut%20Chart%20US%20Population.png" alt="US Population Age Group Donut Chart" width="400">
 
-**[Project 11 - US Population Age Group Pie Chart](http://codepen.io/tommyt/pen/**aZmGvq)**
+**[Project 11 - US Population Age Group Pie Chart](http://codepen.io/tommyt/pen/aZmGvq)**
 
 <img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%2011%20-%20Pie%20Chart%20US%20Population.png" alt="US Population Age Group Pie Chart" width="400">
 
 
-**[Project 10 - Flight Animation](https://github.com/thtruo/30-Days-of-D3/tree/**master/Project%2010%20-%20Flight%20Animation)**
+**[Project 10 - Flight Animation](https://github.com/thtruo/30-Days-of-D3/tree/master/Project%2010%20-%20Flight%20Animation)**
 
 <img src="https://raw.githubusercontent.com/thtruo/30-Days-of-D3/master/img/Project%2010%20-%20Flight%20Animation.png" alt="Flight Animation" width="400">
 
